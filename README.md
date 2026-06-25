@@ -75,7 +75,7 @@ TaskFlow-Web
 
 ### Statistics Dashboard
 
-![Statistics](pics/dashboard.pngdashboard.png)
+![Statistics](pics/dashboard.png)
 
 ### Search Functionality
 
