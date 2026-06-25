@@ -6,6 +6,15 @@ TaskFlow Web Pro helps users organize daily tasks efficiently with features like
 
 ---
 
+## 🌐 Check Out the Site
+
+<p align="center">
+  <a href="https://todo-task-flow-web.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20Website-Live%20Demo-success?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
+
+
 ## ✨ Features
 
 ### 📋 Task Management
@@ -123,6 +132,24 @@ Use Live Server in VS Code.
 - Progress Tracking
 - Backend Integration
 - User Authentication
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:mvjayadeep16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="www.linkedin.com/in/venkata-jayadeep-maddipatla-b1a111385">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/jayadeep_455/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
