@@ -97,7 +97,7 @@ TaskFlow-Web
 1. Download or Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/mvjayadeep16/Todo_TaskFlow_web.git>
 ```
 
 2. Open the Project Folder
